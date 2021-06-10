@@ -1,6 +1,6 @@
 ## What next?
 
-If you are following the [OurPathwayNeedsAName](https://projects.raspberrypi.org/en/raspberrypi/pathway-name) pathway, you can move on to the [Puzzle room](https://projects.raspberrypi.org/en/projects/puzzle-room) project. In this project, you will make a puzzle room out of linked web pages for people to explore.
+If you are following the [OurPathwayNeedsAName](https://projects.raspberrypi.org/en/raspberrypi/pathway-name) pathway, you can move on to the [Linked rooms](https://projects.raspberrypi.org/en/projects/#) project. In this project, you will make a puzzle room out of linked web pages for people to explore.
 
 --- print-only ---
 
