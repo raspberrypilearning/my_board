@@ -63,7 +63,7 @@ Include a YouTube video in your grid. If you don't want to spend time looking on
 
 --- collapse ---
 ---
-title: The container `div` doesn't appear
+title: The container div doesn't appear
 ---
 
 This is because the `float` property makes the `div`s in the grid behave a little differently, so they don't cause their container to grow. You can fix this by setting the `overflow` property on the container to `hidden`.
@@ -82,7 +82,7 @@ This is because the `float` property makes the `div`s in the grid behave a littl
 
 --- collapse ---
 ---
-title: The `div`s in the grid start a new row without filling the current one completely
+title: The divs in the grid start a new row without filling the current one completely
 ---
 
 <div style="width: 180px; height: 120px; background-color: seagreen; margin: 10px auto;">
@@ -143,7 +143,7 @@ The `img` tag is used to include pictures on a webpage. It has two attributes th
  + `alt` — the alternative text description of the image, for users who rely on assistive tools to browse your site
 
  ```html
-<img scr="my_dog.png" alt="A picture of a dog sitting in a garden.">
+<img scr="my_dog.png" alt="A dog sitting in a garden.">
  ```
 
 --- /collapse ---
@@ -156,9 +156,13 @@ title: Including paragraphs of text in your webpage
 The `p` tag is used to add paragraphs of text to your webpage.
 
 ```html
-<p> Whatever text you want to add to your webpage. The paragraph can be whatever length makes sense to you. </p>
+<p> 
+    Whatever text you want to add to your webpage.
+</p>
 
-<p> Another paragraph of text you want to include.</p>
+<p> 
+    Another paragraph of text you want to include.
+</p>
 ```
 
 --- /collapse ---
@@ -171,7 +175,9 @@ title: Using more than one class for the same element
 Sometimes it makes sense to use more than one class for the same element. You just separate the names of the classes with a space. You can use as many classes as you like this way. If the rules in two classes conflict, the rule that appears later in the CSS file will win.
 
 ```html
-<div class="grid_tile red"> <!-- some text/images/etc. in here --> </div>
+<div class="grid_tile red"> 
+    <!-- some text/images/etc. in here --> 
+</div>
 ```
 
 A good example of when this is useful is when several elements are the same size and shape, but have different colours or fonts used on them.
