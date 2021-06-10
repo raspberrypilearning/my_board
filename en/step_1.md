@@ -18,16 +18,9 @@ You will
 
 ### Try it 
 
-Check out this example of one way you might build your project. Think 
+Check out this example of one way you might build your project. Think about the topic you'd like to build your project around.
 
-</div>
-<div>
-**Gobo watching**: [See inside](https://scratch.mit.edu/projects/495141114/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495141114/?autostart=false" frameborder="0"></iframe>
-</div>
-
-</div>
+<iframe src="https://trinket.io/embed/html/b013096423?runMode=autorun" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 --- /task ---
 
@@ -54,9 +47,9 @@ Explore these example projects to get more ideas:
 
 ### Get inspiration 
 
-You are going to make some design decisions to create your character. See inside example projects in [Scratch 1: Googly eye character - Examples](https://scratch.mit.edu/studios/29029028/){:target="_blank"} Scratch studio.
+You are going to make some design decisions to create your character. Here are a few exaples for you to check out for inspiration!
 
-<mark>one image file per example</mark>
+[[To add]]
 
 --- /print-only ---
 
