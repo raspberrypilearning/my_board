@@ -1,59 +1,62 @@
 ## Introduction
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+In this project, you will create a collection of images, quotes, and videos that inspire you. The collection could be about a pet, a cause you're passionate about, a favourite celebrity, or anything else you want.
 
-### What you will make
+You will
++ Use the `div` tag to create a grid layout on your page
++ Add text, images, and video to your page
++ Customise the look of your page using CSS
+
+<mark>Image of many different examples in a strip</mark>
 
 --- no-print ---
-Add instructions for interacting with the embedded content here.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
+--- task ---
+
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 175px; flex-grow: 1">  
+
+### Try it 
+
+Check out this example of one way you might build your project. Think 
+
 </div>
+<div>
+**Gobo watching**: [See inside](https://scratch.mit.edu/projects/495141114/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495141114/?autostart=false" frameborder="0"></iframe>
+</div>
+
+</div>
+
+--- /task ---
+
+### Get inspiration 
+
+You are going to make some design decisions to choose which text, pictures, and even videos you want to include in your page, as well as which colours and decorative elements — like borders — you might want to add.
+
+--- task ---
+
+Explore these example projects to get more ideas:
+
+**Inspiration board**: [See inside](#){:target="_blank"}
+[[Embed]]
+
+**My sports team**: [See inside](#){:target="_blank"}
+[[Embed]]
+
+**Celebrity style**: [See inside](#){:target="_blank"}
+[[Embed]]
+--- /task ---
 --- /no-print ---
 
 --- print-only ---
-![Complete project](images/showcase_static.png)
+
+### Get inspiration 
+
+You are going to make some design decisions to create your character. See inside example projects in [Scratch 1: Googly eye character - Examples](https://scratch.mit.edu/studios/29029028/){:target="_blank"} Scratch studio.
+
+<mark>one image file per example</mark>
+
 --- /print-only ---
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
-
-+ A computer or tablet capable of running Scratch 3
-
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
