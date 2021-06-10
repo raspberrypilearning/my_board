@@ -20,7 +20,7 @@ You will
 
 Check out this example of one way you might build your project. Think about the topic you'd like to build your project around.
 
-<iframe src="https://trinket.io/embed/html/b013096423?runMode=autorun" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/html/b013096423?outputOnly=true&runMode=autorun" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 --- /task ---
 
