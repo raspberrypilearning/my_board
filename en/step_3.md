@@ -11,7 +11,7 @@ Image, gif or video showing what they will achieve by the end of the step. ![](i
 
 --- task ---
 
-Create a class to make all the items in your grid the same size. You'll also need to make them `float` to the left, so they form a grid. Even though you'll be using different HTML tags for images, text, and video, remember that you can use one class to set these common properties on all of them. You can find some tips on doing this below.
+Create a class to make all the items in your grid the same size. You'll also need to make them `float` to the left, so they form a grid. You can find some tips on doing this below.
 
 --- /task ---
 
