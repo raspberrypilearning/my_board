@@ -85,12 +85,14 @@ This is because the `float` property makes the `div`s in the grid behave a littl
 title: The divs in the grid start a new row without filling the current one completely
 ---
 
+<html>
 <div style="width: 180px; height: 120px; background-color: seagreen; margin: 10px auto;">
     <div style="width: 63px; height: 60px; background-color: skyblue;"> </div>
     <div style="width: 63px; height: 60px; background-color: skyblue;"> </div>
     <div style="width: 63px; height: 60px; background-color: skyblue;"> </div>
     <div style="width: 63px; height: 60px; background-color: skyblue;"> </div>
 </div>
+</html>
 
 This is usually because the widths of the elements in the grid do not evenly add up to the width of the container. However, if you've also added a border to any of the `div`s in the grid, you need to work that into your maths too: If you have a two pixel border all the way around the grid `p`, you need to subtract four pixels (two for each side) from the width of the `p`.
 
