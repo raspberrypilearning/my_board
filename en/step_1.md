@@ -48,7 +48,7 @@ You are going to make some design decisions to choose which text, pictures, and 
 
 Look at these example projects to get more ideas:
 
-**My sports team**:
+**My sports team**: [See the code](https://trinket.io/html/20ceb84b20)
 <img src="images/team_page_preview.png">
 
 **My favourite celebrity**:

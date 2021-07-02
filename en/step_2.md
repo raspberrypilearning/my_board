@@ -2,7 +2,7 @@
 
 --- task ---
 
-If you're using Trinket in your browser, open [the template](#) and remix it. If you're wokring on your computer, download [the starter files](#), unzip them, and open them in your editor of choice.
+If you're using Trinket in your browser, open [the template](https://trinket.io/html/00ad891a2c) and remix it. If you're wokring on your computer, download [the starter files](rpf.io/p/en/my_board-get), unzip them, and open them in your editor of choice.
 
 --- /task ---
 
