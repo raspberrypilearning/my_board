@@ -46,19 +46,19 @@ title: Adding images to Trinket
 
 To add an image to your Trinket project, first choose the Images section by selecting this icon.
 
-![The image file icon](trinket_img.png)
+![The image file icon](images/trinket_img.png)
 
 Next, choose the "Image Library" button.
 
-![The image library button](trinket_img_lib.png)
+![The image library button](images/trinket_img_lib.png)
 
 In the screen that opens, select "Upload New Image".
 
-![The image upload button](trinket_img_upload_button.png)
+![The image upload button](images/trinket_img_upload_button.png)
 
 Then drag the images you want to upload into the box that appears.
 
-![The image upload box](trinket_img_upload_box.png)
+![The image upload box](images/trinket_img_upload_box.png)
 
 --- /collapse ---
 
@@ -212,7 +212,7 @@ In the dialogue that opens you'll be shown a few ways you can share the video. C
 
 In the dialogue that opens you'll be shown a few options you can use to modfiy the version of the video that will be shared on your webpage. For now, just choose "Copy"
 
-![The YouTube Share button](images/yt_share.png)
+![The YouTube Share button](images/yt_code.png)
 
 Paste the copied code into your webpage. This is an `iframe` tag. You don't need to understand exactly how it works just yet, but if you remove its `width` and `height` attributes then you can use your class for grid elements to apply the same settings to this video as you have used on `img` and `p` tags.
 --- /collapse ---
@@ -251,7 +251,7 @@ This is because the `float` property makes the `div`s in the grid behave a littl
 title: The divs in the grid start a new row without filling the current one completely
 ---
 <html>
-    <div style="width: 180px; height: 120px; background-color: seagreen; margin: 10px auto;">
+    <div style="width: 180px; height: 120px; background-color: seagreen; margin: 10px auto; overflow: hidden;">
         <div style="width: 63px; height: 60px; background-color: skyblue;"> </div>
         <div style="width: 63px; height: 60px; background-color: skyblue;"> </div>
         <div style="width: 63px; height: 60px; background-color: skyblue;"> </div>

@@ -14,7 +14,7 @@ In `index.html` create a `div` with a background colour and set width. Then use 
 
 --- collapse --- 
 ---
-title: The `div` tag
+title: The div tag
 ---
 
 A `div` is an invisible rectangle, with no width or height unless you give it one — either with CSS or by putting something inside it, which the `div` will grow to hold.
