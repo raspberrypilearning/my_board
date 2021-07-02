@@ -32,7 +32,7 @@ Explore these example projects to get more ideas:
 
 <mark>If you're reviewing this project, please send me yours so I can add it here! Topics might be music, celebrities, hobbies, etc. Maybe dinosaurs? They're always popular.</mark>
 
-**My sports team**:
+**My sports team**: [See the code](https://trinket.io/html/20ceb84b20)
 <a href="https://philhar.trinket.io/sites/my-favourite-team" target="_blank"><img src="images/team_page_preview.png"></a>
 
 --- /task ---
@@ -48,11 +48,9 @@ You are going to make some design decisions to choose which text, pictures, and 
 
 Look at these example projects to get more ideas:
 
-**My sports team**: [See the code](https://trinket.io/html/20ceb84b20)
+**My sports team**:
 <img src="images/team_page_preview.png">
 
-**My favourite celebrity**:
-<img src="images/page_preview.png">
 --- /task ---
 
 --- /print-only ---
