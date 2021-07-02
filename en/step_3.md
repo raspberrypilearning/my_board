@@ -259,7 +259,7 @@ title: The divs in the grid start a new row without filling the current one comp
     </div>
 </html>
 
-This is usually because the `width`s of the elements in the grid are too large, and so adding an extra element to a row would make that row wider than its container. However, if you've also added a border to any of the `div`s in the grid, you need to work that into your maths too: If you have a two pixel border all the way around a `p`, you need to subtract four pixels (two for each side) from the `width` and `height` of the `p`.
+This is usually because the `width`s of the elements in the grid are too large, and so adding an extra element to a row would make that row wider than its container. However, if you've also added a border to any of the elements in the grid, you need to work that into your maths too: If you have a two pixel border all the way around an element, you need to subtract four pixels (two for each side) from the `width` and `height` of the element.
 
 --- /collapse ---
 
