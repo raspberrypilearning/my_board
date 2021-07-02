@@ -1,14 +1,5 @@
 ## Your page
 
-<div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Create the page you'll add your pictures, text, and videos to.
-</div>
-<div>
-Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png){:width="300px"}
-</div>
-</div>
-
 --- task ---
 
 If you're using Trinket in your browser, open [the template](#) and remix it. If you're wokring on your computer, download [the starter files](#), unzip them, and open them in your editor of choice.
@@ -19,15 +10,7 @@ If you're using Trinket in your browser, open [the template](#) and remix it. If
 
 In `index.html` create a `div` with a background colour and set width. Then use CSS to centre it on the webpage. You can find some useful reminders of how to do this below.
 
-**Choose:** Choose your background colour. You can find a list on [this page](https://www.w3schools.com/colors/colors_names.asp).
-
---- save ---
-
-**Test:** view `index.html` to see the page layout.
-
---- /task ---
-
-### Tools for making your page
+**Choose:** Choose your background colour. You can find a list on [this page](https://www.w3schools.com/colors/colors_names.asp){:target="_blank"}.
 
 --- collapse --- 
 ---
@@ -111,3 +94,11 @@ You can set the `width` and `height` properties of a HTML element:
 ```
 
 --- /collapse ---
+
+--- save ---
+
+**Test:** view `index.html` to see the page layout.
+
+--- /task ---
+
+

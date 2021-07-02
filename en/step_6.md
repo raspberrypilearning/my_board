@@ -1,16 +1,16 @@
 ## What next?
 
-If you are following the [OurPathwayNeedsAName](https://projects.raspberrypi.org/en/raspberrypi/pathway-name) pathway, you can move on to the [Linked rooms](https://projects.raspberrypi.org/en/projects/#) project. In this project, you will make a puzzle room out of linked web pages for people to explore.
+If you are following the [OurPathwayNeedsAName](https://projects.raspberrypi.org/en/raspberrypi/pathway-name) pathway, you can move on to the [Choose Your Own Adventure Website](https://projects.raspberrypi.org/en/projects/cyoa-web) project. In this project, you will make a puzzle room out of linked web pages for people to explore.
 
 --- print-only ---
 
-![ProjectName project](images/projectname-project.png)
+![Choose Your Own Adventure Website project](images/cyoa_preview.png)
 
 --- /print-only ---
 
 --- no-print ---
 
-[[ A proper embedded version of this thing]]
+<iframe src="https://trinket.io/embed/html/4cfbe71ae4" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen=""></iframe>
 
 --- /no-print ---
 
