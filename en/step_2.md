@@ -2,7 +2,7 @@
 
 --- task ---
 
-If you're using Trinket in your browser, open [the template](https://trinket.io/html/00ad891a2c) and remix it. If you're wokring on your computer, download [the starter files](rpf.io/p/en/my_board-get), unzip them, and open them in your editor of choice.
+If you're using Trinket in your browser, open [the template](https://trinket.io/html/00ad891a2c){:target="_blank"} and remix it. If you're working on your computer, download [the starter files](rpf.io/p/en/my_board-get), unzip them, and open them in your editor of choice.
 
 --- /task ---
 
@@ -17,7 +17,7 @@ In `index.html` create a `div` with a background colour and set width. Then use 
 title: The div tag
 ---
 
-A `div` is an invisible rectangle, with no width or height unless you give it one — either with CSS or by putting something inside it, which the `div` will grow to hold.
+A `div` is an invisible rectangle. It has no width or height unless you do something to give them to it. You can give a `div` width and height with the CSS `width` and `height` properties. You can also put another element inside the `div`, and the `div` will grow to hold that element.
 
 ```html
     <div>
@@ -101,4 +101,10 @@ You can set the `width` and `height` properties of a HTML element:
 
 --- /task ---
 
+--- task ---
 
+Give the container `div` the property `overflow: hidden`. This will make it grow around the grid elements you will set to `float` in the next step.
+
+--- save ---
+
+--- /task ---

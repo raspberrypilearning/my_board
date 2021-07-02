@@ -1,6 +1,6 @@
 ## Introduction
 
-In this project, you will create a collection of images, quotes, and videos that inspire you. The collection could be about a pet, a cause you're passionate about, a favourite celebrity, or anything else you want.
+In this project, you will create a collection of images, quotes, and videos that inspire you.
 
 You will
 + Use the `div` tag to create a grid layout on your page
@@ -24,7 +24,7 @@ Check out [this example](https://philhar.trinket.io/sites/project_4){:target="_b
 
 ### Get inspiration 
 
-You are going to make some design decisions to choose which text, pictures, and even videos you want to include in your page, as well as which colours and decorative elements — like borders — you might want to add.
+You are going to make some design decisions to choose which text, pictures, and even videos you want to include in your page. You can also thing about which colours and decorative elements — like borders — you might want to add.
 
 --- task ---
 
@@ -42,7 +42,7 @@ Explore these example projects to get more ideas:
 
 ### Get inspiration 
 
-You are going to make some design decisions to choose which text, pictures, and even videos you want to include in your page, as well as which colours and decorative elements — like borders — you might want to add.
+You are going to make some design decisions to choose which text, pictures, and even videos you want to include in your page. You can also thing about which colours and decorative elements — like borders — you might want to add.
 
 --- task ---
 

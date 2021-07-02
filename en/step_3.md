@@ -9,7 +9,7 @@ Create a class to make all the items in your grid the same size. You'll also nee
 title: Making a grid of elements with CSS
 ---
 
-To make a grid of HTML elements with CSS, you will need to set a common height and width for all the elements, and set them to float to the left. For a neat layout, the width of an element in the grid should divide evenly into the width of the container (usually a `div`) you are placeing the elements into. For example, if the container `div` is 1200px wide, grid elements could be any of:
+To make a grid of HTML elements with CSS, you will need to set a common height and width for all the elements, and set them to float to the left. For a neat layout, the width of an element in the grid should divide evenly into the width of the container (usually a `div`) you are placing the elements into. For example, if the container `div` is 1200px wide, grid elements could be any of:
 
  + 600px
  + 400px
@@ -70,7 +70,7 @@ title: Including images in your webpage
 The `img` tag is used to include pictures on a webpage. It has two attributes that must be set when doing so:
 
  + `src` — the source location of the image file, including the file name
- + `alt` — the alternative text description of the image, for users who rely on assistive tools to browse your site
+ + `alt` — the alternative text description of the image, for users who rely on assistive tools, like screen readers, to browse your site
 
  ```html
 <img scr="my_dog.png" alt="A dog sitting in a garden.">
@@ -114,7 +114,7 @@ The `p` tag is used to add paragraphs of text to your webpage.
 title: Styling text with CSS
 ---
 
-You can use the `font-family` properity to make your text look different. The font families are:
+You can use the `font-family` property to make your text look different. The font families are:
 
   + <span style="font-family: cursive">cursive</span>
   + <span style="font-family: fantasy">fantasy</span>
@@ -137,7 +137,7 @@ You can set font families like this:
 title: Controlling text size
 ---
 
-You can use the `font-size` properity to make your text look bigger, or smaller. The default size, which the user chooses and on which the others are based, is `medium`. The font sizes are:
+You can use the `font-size` property to make your text look bigger, or smaller. The default size, which the user chooses and on which the others are based, is `medium`. The font sizes are:
 
   + <span style="font-size: xx-small">xx-small</span>
   + <span style="font-size: x-small">x-small</span>
@@ -182,7 +182,7 @@ Sometimes it makes sense to use more than one class for the same element. You ju
 </div>
 ```
 
-A good example of when this is useful is when several elements are the same size and shape, but have different colours or fonts used on them.
+This is useful when, for example, several elements are the same size and shape but different colours.
 
 --- /collapse ---
 
@@ -195,26 +195,26 @@ A good example of when this is useful is when several elements are the same size
 
 --- task ---
 
-Include a video from YouTube in your grid (you can use [one of ours]((https://www.youtube.com/watch?v=knrrTxDYtdM)){:target="_blank"}, if you like).
+Include a video from YouTube in your grid. You can use [this video]((https://www.youtube.com/watch?v=knrrTxDYtdM)){:target="_blank"}, if you like.
 
 --- collapse ---
 ---
 title: Including YouTube video in your webpage
 ---
 
-Including a video from YouTube on your webpage only takes a few steps: First, go to the video you want to include on YouTube and click the "share" button.
+First, go to the video you want to include on YouTube and click the "share" button.
 
 ![The YouTube Share button](images/yt_share.png)
 
-In the dialogue that opens you'll be shown a few ways you can share the video. Choose "Embed". Embedding means to include one thing inside another — this YouTube video will be embedded in your webpage.
+In the dialogue that opens you'll see a few ways you can share the video. Choose "Embed". Embedding means to include one thing inside another — this YouTube video will be embedded in your webpage.
 
-![A number of buttons offering ways to share the video, including embed, WhatsApp, Facebook, Twitter, and Email.](images/yt_embed.png)
+![Buttons with ways to share the video, including embed, WhatsApp, Facebook, Twitter, and email.](images/yt_embed.png)
 
-In the dialogue that opens you'll be shown a few options you can use to modfiy the version of the video that will be shared on your webpage. For now, just choose "Copy"
+In the dialogue that opens you'll see a few options you can use to modfiy the version of the video that will be shared on your webpage. Choose "Copy"
 
 ![The YouTube Share button](images/yt_code.png)
 
-Paste the copied code into your webpage. This is an `iframe` tag. You don't need to understand exactly how it works just yet, but if you remove its `width` and `height` attributes then you can use your class for grid elements to apply the same settings to this video as you have used on `img` and `p` tags.
+Paste the copied code into your webpage. This is an `iframe` tag. Remove its `width` and `height` attributes. Give it the same class you used on other elements to give them the `width`, `height`, and `float` properties that make them part of your grid. It should now be the right size and shape to fit neatly onto your page.
 --- /collapse ---
 
 --- save --- 
@@ -259,7 +259,10 @@ title: The divs in the grid start a new row without filling the current one comp
     </div>
 </html>
 
-This is usually because the `width`s of the elements in the grid are too large, and so adding an extra element to a row would make that row wider than its container. However, if you've also added a border to any of the elements in the grid, you need to work that into your maths too: If you have a two pixel border all the way around an element, you need to subtract four pixels (two for each side) from the `width` and `height` of the element.
+This is usually because the `width`s of the elements in the grid are too large. That means adding an extra element to a row would make that row wider than its container. Check your maths and change either the width of the container or the grid elements, if you need to.
+
+
+If you've also added a border to any of the elements in the grid, you need to work that into your maths too. For example, if you have a two pixel border all the way around an element you need to subtract four pixels — two for each side — from the `width` and `height` of that element.
 
 --- /collapse ---
 

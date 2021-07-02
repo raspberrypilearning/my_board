@@ -14,4 +14,4 @@ If you are following the [OurPathwayNeedsAName](https://projects.raspberrypi.org
 
 --- /no-print ---
 
-If you want to have more fun exploring web technology, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=html-css-javascript)
+If you want to have more fun making web pages, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=html-css-javascript)
