@@ -253,9 +253,9 @@ title: The divs in the grid start a new row without filling the current one comp
 <html>
     <div style="width: 180px; height: 120px; background-color: seagreen; margin: 10px auto; overflow: hidden;">
         <div style="width: 63px; height: 60px; background-color: skyblue; float: left; border: 1px solid black;"> </div>
-        <div style="width: 63px; height: 60px; background-color: skyblue; float: left; border: 1px solid black;"> </div>
-        <div style="width: 63px; height: 60px; background-color: skyblue; float: left; border: 1px solid black;"> </div>
-        <div style="width: 63px; height: 60px; background-color: skyblue; float: left; border: 1px solid black;"> </div>
+        <div style="width: 63px; height: 60px; background-color: yellow; float: left; border: 1px solid black;"> </div>
+        <div style="width: 63px; height: 60px; background-color: red; float: left; border: 1px solid black;"> </div>
+        <div style="width: 63px; height: 60px; background-color: violet; float: left; border: 1px solid black;"> </div>
     </div>
 </html>
 
