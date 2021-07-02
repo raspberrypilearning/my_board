@@ -252,14 +252,14 @@ title: The divs in the grid start a new row without filling the current one comp
 ---
 <html>
     <div style="width: 180px; height: 120px; background-color: seagreen; margin: 10px auto; overflow: hidden;">
-        <div style="width: 63px; height: 60px; background-color: skyblue; float: left;"> </div>
-        <div style="width: 63px; height: 60px; background-color: skyblue; float: left;"> </div>
-        <div style="width: 63px; height: 60px; background-color: skyblue; float: left;"> </div>
-        <div style="width: 63px; height: 60px; background-color: skyblue; float: left;"> </div>
+        <div style="width: 63px; height: 60px; background-color: skyblue; float: left; border: 1px solid black;"> </div>
+        <div style="width: 63px; height: 60px; background-color: skyblue; float: left; border: 1px solid black;"> </div>
+        <div style="width: 63px; height: 60px; background-color: skyblue; float: left; border: 1px solid black;"> </div>
+        <div style="width: 63px; height: 60px; background-color: skyblue; float: left; border: 1px solid black;"> </div>
     </div>
 </html>
 
-This is usually because the widths of the elements in the grid do not evenly add up to the width of the container. However, if you've also added a border to any of the `div`s in the grid, you need to work that into your maths too: If you have a two pixel border all the way around a `p`, you need to subtract four pixels (two for each side) from the width and height of the `p`.
+This is usually because the `width`s of the elements in the grid are too large, and so adding an extra element to a row would make that row wider than its container. However, if you've also added a border to any of the `div`s in the grid, you need to work that into your maths too: If you have a two pixel border all the way around a `p`, you need to subtract four pixels (two for each side) from the `width` and `height` of the `p`.
 
 --- /collapse ---
 
